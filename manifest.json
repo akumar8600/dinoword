@@ -1,0 +1,27 @@
+{
+  "name": "DinoWord - Kids Vocabulary",
+  "short_name": "DinoWord",
+  "description": "DinoWord - Fun vocabulary learning with your dino buddy!",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FF6A00",
+  "theme_color": "#FF6A00",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "kids", "games"],
+  "lang": "en",
+  "dir": "ltr"
+}
